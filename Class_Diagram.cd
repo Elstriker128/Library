@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.Book">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAQEgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Library.InOut">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>InOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.Journal">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAQEgEAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Journal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Library.Newspaper">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQEgEAAAAAAAAAAAIABAAAAAAAAAAA=</HashCode>
+      <FileName>Newspaper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Library.Publication">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQIAAQAiEAAAAQAAAAAAIAAAQAAAAAAAAA=</HashCode>
+      <FileName>Publication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Library.TaskUtils">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAAAAAAAQQAQACAJQAAACAAAAAAgQBAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.UIForClient">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAABABAAQAAAAABgAegEQYAAAAAAAAAAAggA=</HashCode>
+      <FileName>UIForClient.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

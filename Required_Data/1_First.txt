@@ -1,0 +1,6 @@
+﻿Universiteto miestelio biblioteka
+Šilainiai
++37067892456
+Harry Potter;fantastika;Alma Littera;2020-03-18;320;100000;ISBN-489123;J. K. Rowling
+15min;mokslinis;15min;2020-09-14;15;2000;2014-09-14;5
+Nykštukas;pramogų;Kažkas;2023-11-19;20;900;ISBN-137946;1

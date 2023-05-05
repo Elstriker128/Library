@@ -1,0 +1,6 @@
+Mechanikos inžinerijos ir dizaino fakulteto biblioteka
+Kaunas
++37061894731
+The Hobbit;fantastika;Alma Littera;2023-01-29;500;1000000;ISBN-164979;J.R.R. Tolkien
+Lietuvos Rytas;mokslinis;Lietuvos Rytas;2019-06-28;23;1000;2017-06-28;3
+Narnia's Chronicles;fantastika;Alma Littera;2022-11-06;300;150000;ISBN-258970; C.S Lewis

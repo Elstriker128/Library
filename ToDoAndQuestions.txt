@@ -1,0 +1,11 @@
+﻿To Do:
+1. Exceptions - Done;
+2. UI - Done;
+3. Data files - Done;
+4. Tests - Done;
+5. Textbox to put the filepath of a directory - Done;
+
+Questions:
+1. Does all data need to be printed to the UI screen?
+2. How to make dinamic tables?
+3. What tests are needed and how many of them?

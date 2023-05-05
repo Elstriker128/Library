@@ -1,0 +1,6 @@
+Panevėžio technologijų ir verslo fakulteto biblioteka
+Panevėžys
++37060004000
+Savaitė;informacinis;Kažkas;2020-09-07;25;1000;ISBN-555888;1
+Žmonės;informacinis;Kažkas;2001-01-01;30;1000;ISBN-455799;3
+Lord Of the Rings;fantastika;Alma Littera;2022-04-25;700;1000000;ISBN-777777;J.R.R. Tolkien

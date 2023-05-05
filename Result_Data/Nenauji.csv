@@ -1,0 +1,32 @@
+﻿
+
+
+Pasenę leidiniai pries rūšiavimą
+Pavadinimas         ,Tipas     ,Leidėjas      ,Išleidimo data ,Puslapiu skaičius,Tiražas        ,Data    ,Numeris   ,ISBN      ,Autorius                 
+DELFI               ,mokslinis ,DELFI         ,06-29-2019     ,             20,           1500,03-09-2000,         6,No value  ,No value                 
+Flintas             ,pramogų   ,Kažkas        ,11-13-2022     ,             30,           1000,No value,         2,ISBN-159753,No value       
+Lietuvos Rytas      ,mokslinis ,Lietuvos Rytas,06-28-2019     ,             23,           1000,06-28-2017,         3,No value  ,No value                 
+New York Times      ,mokslinis ,New York Times,03-15-2023     ,             35,           3500,03-15-2023,         1,No value  ,No value                 
+The Guardian        ,mokslinis ,The Guardian  ,03-09-2022     ,             20,         102000,03-09-2020,         7,No value  ,No value                 
+Savaitė             ,informacinis,Kažkas        ,09-07-2020     ,             25,           1000,No value,         1,ISBN-555888,No value       
+Žmonės              ,informacinis,Kažkas        ,01-01-2001     ,             30,           1000,No value,         3,ISBN-455799,No value       
+Lord Of the Rings   ,fantastika,Alma Littera  ,04-25-2022     ,            700,        1000000,No value,  No value,ISBN-777777,J.R.R. Tolkien           
+Harry Potter        ,fantastika,Alma Littera  ,03-18-2020     ,            320,         100000,No value,  No value,ISBN-489123,J. K. Rowling            
+15min               ,mokslinis ,15min         ,09-14-2020     ,             15,           2000,09-14-2014,         5,No value  ,No value                 
+
+
+
+
+Pasenę leidiniai po rūšiavimo
+Pavadinimas         ,Tipas     ,Leidėjas      ,Išleidimo data ,Puslapiu skaičius,Tiražas        ,Data    ,Numeris   ,ISBN      ,Autorius                 
+Žmonės              ,informacinis,Kažkas        ,01-01-2001     ,             30,           1000,No value,         3,ISBN-455799,No value       
+Lietuvos Rytas      ,mokslinis ,Lietuvos Rytas,06-28-2019     ,             23,           1000,06-28-2017,         3,No value  ,No value                 
+DELFI               ,mokslinis ,DELFI         ,06-29-2019     ,             20,           1500,03-09-2000,         6,No value  ,No value                 
+Savaitė             ,informacinis,Kažkas        ,09-07-2020     ,             25,           1000,No value,         1,ISBN-555888,No value       
+Harry Potter        ,fantastika,Alma Littera  ,03-18-2020     ,            320,         100000,No value,  No value,ISBN-489123,J. K. Rowling            
+15min               ,mokslinis ,15min         ,09-14-2020     ,             15,           2000,09-14-2014,         5,No value  ,No value                 
+Flintas             ,pramogų   ,Kažkas        ,11-13-2022     ,             30,           1000,No value,         2,ISBN-159753,No value       
+The Guardian        ,mokslinis ,The Guardian  ,03-09-2022     ,             20,         102000,03-09-2020,         7,No value  ,No value                 
+Lord Of the Rings   ,fantastika,Alma Littera  ,04-25-2022     ,            700,        1000000,No value,  No value,ISBN-777777,J.R.R. Tolkien           
+New York Times      ,mokslinis ,New York Times,03-15-2023     ,             35,           3500,03-15-2023,         1,No value  ,No value                 
+
